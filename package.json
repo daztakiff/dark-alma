@@ -1,5 +1,6 @@
 {
-  "name": "dark-alma",
+  "name": "dark-alma-beta",
+  "publisher": "DarkAlmaBeta",
   "displayName": "Dark Alma",
   "description": "GOKINGFISHERS",
   "version": "0.0.1",
@@ -17,5 +18,35 @@
         "path": "./themes/Dark Alma-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daztakiff/dark-alma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daztakiff/dark-alma/issues"
+  },
+  "homepage": "https://github.com/daztakiff/dark-alma#readme",
+  "author": "Zachary Takiff, Owen Hayes",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "uiuc",
+    "university",
+    "of",
+    "illinois",
+    "urbana-champaign",
+    "champaign",
+    "urbana",
+    "theme",
+    "u",
+    "of",
+    "i",
+    "u of i",
+    "u of i theme",
+    "alma mater",
+    "dark alma",
+    "illinois theme",
+    "uiuc theme",
+    "kingfisher"
+  ]
 }

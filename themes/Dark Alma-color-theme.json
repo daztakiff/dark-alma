@@ -25,12 +25,7 @@
         "tab.inactiveBackground": "#0a1c39",
         "editorGroupHeader.tabsBackground": "#071429",
         "terminal.foreground": "#5DB7DE",
-        "panelTitle.activeBorder": "#CE5E11",
-        
-        
-
-
-
+        "panelTitle.activeBorder": "#CE5E11"
 	},
 	"tokenColors": [
 		{
